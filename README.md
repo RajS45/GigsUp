@@ -317,7 +317,7 @@ python -m http.server 5500
 
 Open the application in your browser:
 
-**http://localhost:5500**
+**[http://localhost:5500](https://gigsup-rrontend.onrender.com/)**
 
 Keep the backend running in the first terminal.
 
